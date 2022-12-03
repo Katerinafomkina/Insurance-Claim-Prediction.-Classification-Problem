@@ -1,6 +1,10 @@
 # Insurance-Claim-Prediction
 This is a repository to fromDataverse Hack 2022 from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/dataverse/?utm_source=sendinblue&utm_medium=email&utm_campaign=04-Nov-2022||&utm_content=registrations#About/)
 
+
+<img width="1168" alt="rating_analitycsvidhya" src="https://user-images.githubusercontent.com/8630013/205440154-e016797d-e793-459a-9cdf-cc31f277855f.png">
+
+
 About Hackathon:
 Insurance Claim Prediction
 
