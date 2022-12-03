@@ -1,4 +1,4 @@
-# Insurance-Claim-Prediction.  Dataverse Hack
+# Dataverse Hack Hackathon. Insurance-Claim-Prediction.  
 This is a repository to Dataverse Hack 2022 from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/dataverse/?utm_source=sendinblue&utm_medium=email&utm_campaign=04-Nov-2022||&utm_content=registrations#About/)
 
 
